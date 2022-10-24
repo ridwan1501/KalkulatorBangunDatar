@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         tombol.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v) {
-                Toast.makeText(getApplicationContext(), "Create By Candra Thariq Briantama (A11.2021.13445) ",Toast.LENGTH_LONG).show();
+                Toast.makeText(getApplicationContext(), "Create By Mohammad Ridwan Pratama (A11.2021.13435) ",Toast.LENGTH_LONG).show();
             }
         });
 
